@@ -1,7 +1,7 @@
 # Network-Scanner
 A small project that I wrote on the fly in order to identify and label the devices in my networks.
 
-#Installation:
+# Installation:
 
 clone or download the project and cd into the project folder:
 
